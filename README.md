@@ -7,18 +7,16 @@ Note from author - The code itself generates a randomm gaussian field which at l
 
 ---
 
-## 🌠 Features
-
 - 2D fractional Brownian motion generator
 - Customizable Hurst exponent for spatial structure
 - Gaussian smoothing to simulate telescope beams
 - Log-normal transformation for realistic emission profiles
 - Optional observational noise addition
-- Clean, modular Python codebase
+- Clean (relatively), modular Python codebase
 
 ---
 
-## 🧪 Requirements
+## Requirements
 
 - Python 3.7+
 - numpy
